@@ -27,5 +27,5 @@ function redefinirSenha() {
   alert('O link de redefinição foi enviado para o email informado.');
 
   // Redireciona para a página de login
-  window.location.href = 'index.html';
+  window.location.href = './../index.html';
 }
